@@ -16,6 +16,8 @@ This repository contains the original dataset to keep anonymity for the reviewin
 
 Regarding questions, feel free to reach out to the authors of the paper!
 
+![image](https://github.com/user-attachments/assets/ea209318-f0ef-4df0-a323-9c7b21662eb6)
+
 ## 📊&nbsp;&nbsp;Data Sources
 
 ### European Vaccination Information Portal (EVIP)
