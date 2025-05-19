@@ -12,7 +12,7 @@ The original paper introduces MedAID-ML, which is a multilignual dataset of biom
 (mainly) parallel data in English, German, Spanish and French, where AI-generated counterparts were created using three different state-of-the-art
 Large Language Models (LLMs): mistral-7b, Llama3.1 and GPT-4o.
 
-This repository contains the original dataset to keep anonymity for the reviewing process. Afterwards, we will move the dataset to to *Digital CSIC* and *TU Wien Research Data*.
+This repository contains the original dataset to keep anonymity for the reviewing process. Afterwards, we will move the dataset to institutional repositories.
 
 Regarding questions, feel free to reach out to the authors of the paper!
 
